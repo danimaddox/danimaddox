@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danimaddox
 - 👀 I’m interested in Technology / Programming / Database...
-- 🌱 Studying Front End Development
+- 🌱 Studying Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maddoxdani@gmail.com
 
