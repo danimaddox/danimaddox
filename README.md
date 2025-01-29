@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danimaddox
-- 👀 I’m interested in Technology / Programming / Data / AI / Cloud / IoT
-- 🌱 Studying Artificial Intelligence / Computer engineering /
+- 👀 I’m interested in Technology / Programming / Data / AI / Cybersecurity / Cloud / IoT
+- 🌱 Studying Artificial Intelligence / Computer engineering / Cybersecurity / IoT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maddoxdani@gmail.com
 
